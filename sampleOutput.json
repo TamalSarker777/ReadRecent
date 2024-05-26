@@ -1,0 +1,59 @@
+
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Scott Bailey",
+      "title": "Australia v Pakistan cricket:Pakistan destroy Australia’s tail to take lead at SCG",
+      "description": "Australia conceded a first-innings deficit at home for the first time in 15 Tests after collapsing to be all out for 299 against Pakistan at the SCG.",
+      "url": "http://www.afr.com/companies/sport/pakistan-destroy-australias-tail-to-take-lead-at-scg-20240105-p5evgw",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.7411%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1298%2C$y_157/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/625ac8a8cce24751d6ed6a2ca1a7e5b3706a7445",
+      "publishedAt": "2024-01-05T06:55:03Z",
+      "content": "After Australia had lost 3-18 either side of lunch, Marsh and Alex Carey (38) steadied the ship.\r\nSaturday marks six months since Marshs return to the Test side at Headingley, where he blitzed a 102-… [+1888 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": null,
+      "title": "‘Terrible’: Pink Test take divides Aussies",
+      "description": "Claims about how the McGrath Foundation spends money has caused a stir online as cricket players and fans turn Sydney Cricket Ground pink for the annual Jane McGrath Day",
+      "url": "https://www.news.com.au/sport/cricket/pink-test-mixed-reaction-to-claims-about-mcgrath-foundation-spending/news-story/56860bb1d7f3fd51c80ef3621d4622b4",
+      "urlToImage": "https://content.api.news/v3/images/bin/a6ab3b7a8d0a044c3d0d0a9f54e37cbf",
+      "publishedAt": "2024-01-05T02:19:00Z",
+      "content": "Claims about how the McGrath Foundation spends money has caused a stir online as cricket players and fans turn Sydney Cricket Ground pink for the annual Jane McGrath Day \r\nCricket great Glenn McGrath… [+3915 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
